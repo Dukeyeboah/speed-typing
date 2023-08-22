@@ -4,7 +4,8 @@ Speed typing Web app that checks typed word count against a set running time.
 
 Netlify deployed link to site: https://dukes-typing-game.netlify.app/
 
-![Speed-Typing_Test](https://github.com/Dukeyeboah/speed-typing/assets/117697130/2085e05f-eb46-4383-9670-53ba349472c1)
+![Speed-Typing_Test](https://github.com/Dukeyeboah/speed-typing/assets/117697130/ed3f55e6-24fd-4100-b3ff-0aee7992078d)
+
 
 
 Project bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
